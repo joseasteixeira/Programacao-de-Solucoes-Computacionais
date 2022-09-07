@@ -26,7 +26,7 @@ mais uma comissão também fixa para cada carro vendido e mais 5% do valor das v
 efetuadas. Ler o número de carros por ele vendidos, o valor total de suas vendas, o salário fixo e o
 valor que ele recebe por carro vendido. Calcular e exibir o salário final do vendedor.
 
-### Lista de Exercicios 1
+### Lista de Exercicios 2
 1. Faça um programa que obtém o salário de uma pessoa e diz se ela está ganhando pelo menos o salário mínimo.
 2. Escreva um programa que obtém a idade de uma pessoa e diz se ela é maior, 
     segundo a legislação brasileira. Escreva uma versão com if/else e outra com 
@@ -77,3 +77,31 @@ assim por diante.
 21. Sabe-se que um ano é bissexto se for divisível por 400 ou se for divisível por 4 e não
 for divisível por 100. Por exemplo: 1988, 1992, 1996, 2020. Determinar se um
 determinado ano lido é bissexto.
+
+### Lista de Exercicios 3
+1. Desenvolver um algoritimo que efetue a soma de todos os números ímpares
+que são multiplos de três e que se encontram no conjunto de números de 1 ate 500.
+2. Desenvolver um algoritimo que leia a altura de 15 pessoas. Este programa
+deverá calcular e mostrar:
+a) A menor altura do grupo;
+b) A maior altura do grupo;
+3. Desenvolver um algoritimo que leia um número não determinado de valores,
+calcule e escreva a média aritimética dos valores lidos, a quantidade de
+valores positivos, a quantidade de valores negativos, e o percentual de 
+valores negativos e positivos;
+4. Escrever um algoritimo que leia uma quantidade descinhecida de números
+e conte quantos deles estão nos seguintes intervalos: [0-25], [26-50], [50-75]
+e [76-100]. A entrada de dados deve terminar quando for lido um némero negativo.
+5. Faça um algoritimo estruturado que leia uma quantidade não determinada de 
+números positivos. Calcule a quantidade de números pares e ímpares, a média
+de valores pares e ímpares, e a média geral dos números lidos. O número que 
+encerrara a leitira será zero.
+6. Escreva um algoritimo que gera e escreve os números ímpares entre 100 e 200.
+7. escrever um algoritimo que leia um valor para uma variavel N de 1 a 10 e
+calcule a tabuada de N. Mostre a tabuada na forma: 0*N=0, 1*N=1N, 2*N=2N, ..., 10*N=10N.
+8. Escrver um algoritimo que leia um valor inicial A, e uma razão R, e 
+imprima um asequência em P.A. contendo 10 valores.
+9. Escrver um algoritimo que leia um valor inicial A, e uma razão R, e 
+imprima um asequência em P.G. contendo 10 valores.
+10. Escrever um algoritimo que leia um valor inicial A e imprima a sequência
+de valores do calculo de A! e o resultado. EX: 5!=5*4*3*2*1=120.
