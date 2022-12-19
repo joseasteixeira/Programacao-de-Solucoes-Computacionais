@@ -105,3 +105,39 @@ imprima um asequência em P.A. contendo 10 valores.
 imprima um asequência em P.G. contendo 10 valores.
 10. Escrever um algoritimo que leia um valor inicial A e imprima a sequência
 de valores do calculo de A! e o resultado. EX: 5!=5*4*3*2*1=120.
+
+### Lista de Exercicios 4
+1. Elabore uma classe que receba dez nomes de pessoas, armazene esses nomes 
+em um array de dez elementos, sorteie um ganhador e imprima o seu nome em tela.
+2. Faça uma classe que gere aleatoriamente mil números inteiros quaisquer e 
+os armazene num array. A seguir, peça para o usuário digitar um número a ser 
+pesquisado no array. Informe ao usuário se o número existe ou não no array.
+3. Faça uma classe contendo um array que recebe o nome e o sexo de cinco 
+pessoas; a seguir o usuário fornece o sexo das pessoas que devem ser 
+apresentadas em tela.
+4. Faça uma classe que simule a ocupação de quartos de um hotel. Considere 
+que existem cinco andares e dez quartos por andar. O objetivo é saber se um 
+quarto está ou não ocupado. A classe deve possuir um menu com as opções: 
+1-Imprimir lista de quartos, 2-Definir ocupação e 3-Sair. A opção 1 lista 
+todos os quartos, informando se estão ou não ocupados, a opção 2 permite 
+definir o status "ocupado" ou "livre" para qualquer um dos quartos. A opção 
+3 encerra o programa.
+
+### Lista de Exercicios 5
+1. Sistema para cadástro de pessoas.
+
+### Lista de Exercicios 6
+1. Construir um sistema que cadaste os animais de acordo com sua espécie.
+
+### Lista de Exercicios 7
+1. Construir um sistema  para gerênciar os quartos de um  hotel, o hotel possuirá 50 quartos,
+o sistema deve ter um menu com as opções: 
+- Fazer checkin.
+- Fazer checkout.
+- Listas pessoas cadastradas no hotel.
+- Listar quantas vagas existem no hotel.
+- Fazer transferência entre quartos ocupados e vazios.
+- Sair do sistema.
+
+### Lista de Exercicios 8
+1. Construir um sistema que faça o cadastro de um veiculo no banco de dados.
